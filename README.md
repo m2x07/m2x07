@@ -5,6 +5,9 @@
 - **loves reading** about new things and tech in general.
 - i use **arch, btw!**
 
+
+[![roadmap.sh](https://roadmap.sh/card/wide/64bf7b74263b0aea1d9b79da?variant=dark)](https://roadmap.sh)
+
 ## Get in Touch :
 
 You can contact me through **mail** or **drop a DM** at any of my socials on the left. \
