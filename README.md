@@ -6,7 +6,7 @@
 - i use **arch, btw!**
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64bf7b74263b0aea1d9b79da?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Creact)](https://roadmap.sh)
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/64bf7b74263b0aea1d9b79da?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Creact)](https://roadmap.sh) -->
 
 ## Get in Touch :
 
