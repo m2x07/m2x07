@@ -1,6 +1,6 @@
 ## Hi, I'm M2X07!
 
-- currently learning **web development.**
+- currently learning **backend development.**
 - highly interested in **low level languages** and **game development.**
 - **loves reading** about new things and tech in general.
 - i use **arch, btw!**
